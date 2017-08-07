@@ -1,0 +1,104 @@
+body{
+	font-family: Arial, Helvelica, sans-serif;
+	font-size: 15px;
+	line-height: 1.5;
+}
+
+/*global*/
+.container{
+	width:80%;
+	margin:auto;
+	overflow: hidden;
+
+}
+
+ul{
+	margin:0;
+	padding:0;
+}
+
+/*header*/
+header{
+	background: #35424a;
+	color: white;
+	padding-top: 20px;
+	min-height: 70px;
+	border-bottom: #E8491d 4px solid;
+
+}
+ 
+header a{
+	color:white;
+	text-decoration: none;
+	text-transform: uppercase;
+	font-size-adjust: 16px;
+
+} 
+
+header li{
+	float:left;
+	display:inline;
+	padding: 0 20px 0 20px; /*top right bottom left*/
+}
+
+header form{
+	padding-top: 20px;
+}
+
+.button_1{
+	float: right;
+}
+
+header nav{
+	float:left;
+}
+
+header .current a{
+	color:#E8491d;
+	font-weight: bold;
+}
+
+header a:hover{
+	color:white;
+
+}
+
+/*promote*/
+
+.promote{
+	min-height: 400px;
+	background: url('../img/showcase.jpg') no-repeat 0 -400px;
+	text-align: center;
+	color: white;
+}
+
+.promote h1{
+	font-size: 60px;
+	margin-top: 125px;
+	margin-bottom: 10px;
+}
+
+.promote p1{
+	font-size: 30px;
+
+}
+
+.promot p{
+	font-size:20px;
+	font-weight: bold;
+	padding-top: 20px;
+}
+
+.github{
+	padding:15px;
+	background: #35424a;
+}
+
+form, .p{
+	color:white;
+	font-size: 20px;
+}
+
+form, .github{
+	text-align: center
+}
