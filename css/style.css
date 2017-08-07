@@ -47,6 +47,14 @@ header form{
 
 .button_1{
 	float: right;
+	height: 38px;
+	background:#E8491d;
+	border:0;
+	padding-left:20px;
+	padding-right: 20px;
+	color:white;
+	font-weight: bold;
+	text-transform: uppercase;
 }
 
 header nav{
@@ -89,6 +97,8 @@ header a:hover{
 	padding-top: 20px;
 }
 
+/*github*/
+
 .github{
 	padding:15px;
 	background: #35424a;
@@ -101,4 +111,22 @@ form, .p{
 
 form, .github{
 	text-align: center
+}
+
+/*highlights*/
+#highlights{
+	margin-top: 20px;
+	
+}
+
+#highlights .highlight{
+	float:left;
+	text-align: center;
+	width:30%;
+	padding:10px;
+	
+}
+
+#highlights .highlight img{
+	width: 90px;
 }
