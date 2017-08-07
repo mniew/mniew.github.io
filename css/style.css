@@ -57,6 +57,13 @@ header form{
 	text-transform: uppercase;
 }
 
+.button_2{
+
+	background-color:transparent; 
+	border-color:transparent;
+
+}
+
 header nav{
 	float:left;
 }
@@ -104,7 +111,7 @@ header a:hover{
 	background: #35424a;
 }
 
-form, .p{
+.github, .p{
 	color:white;
 	font-size: 20px;
 }
@@ -130,3 +137,24 @@ form, .github{
 #highlights .highlight img{
 	width: 90px;
 }
+
+.highlight h3{
+	color:#E8491d;
+}
+
+#highlights .highlight2{
+	float:left;
+	text-align: center;
+	width:30%;
+	padding:10px;
+	
+}
+
+#highlights .highlight2 img{
+	width: 90px;
+}
+
+.highlight2 h3{
+	color:#E8491d;
+}
+
