@@ -81,7 +81,7 @@ header a:hover{
 /*promote*/
 
 .promote{
-	min-height: 400px;
+	min-height: 725px;
 	background: url('../img/showcase.jpg') no-repeat 0 -400px;
 	text-align: center;
 	color: white;
@@ -89,7 +89,7 @@ header a:hover{
 
 .promote h1{
 	font-size: 60px;
-	margin-top: 125px;
+	margin-top: 20%;
 	margin-bottom: 10px;
 }
 
@@ -162,6 +162,25 @@ footer{
 	padding: 30px;
 	margin-top: 20px;
 	color:white;
-	background-color:#E8491d; 
+	background-color:#E8491d;
+	text-align: center; 
+}
+
+#contact h1{
+	text-align: center;
+}
+
+#contact .container{
+	
+}
+
+#contact h1{
+	text-align: center;
+	color: #E8491d;
+}
+
+#contact{
+	/*background-color: #35424a;*/
+
 }
 
