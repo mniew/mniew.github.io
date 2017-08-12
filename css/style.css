@@ -106,17 +106,17 @@ header a:hover{
 
 /*github*/
 
-.github{
+#github{
 	padding:15px;
 	background: #35424a;
 }
 
-.github, .p{
+#github, .p{
 	color:white;
 	font-size: 20px;
 }
 
-form, .github{
+form, #github{
 	text-align: center
 }
 
@@ -137,6 +137,13 @@ form, .github{
 #highlights .highlight img{
 	width: 90px;
 }
+
+/*.highlight p3{
+	color:#E8491d;
+	font-size:20px;
+	font-weight: bold;
+
+}*/
 
 .highlight h3{
 	color:#E8491d;
@@ -166,21 +173,18 @@ footer{
 	text-align: center; 
 }
 
-#contact h1{
+/*#contact h1{
 	text-align: center;
-}
-
-#contact .container{
 	
-}
+}*/
 
 #contact h1{
 	text-align: center;
-	color: #E8491d;
+	color:white;
 }
 
-#contact{
-	/*background-color: #35424a;*/
+/*#contact{
+	background-color: #35424a;
 
-}
+}*/
 
