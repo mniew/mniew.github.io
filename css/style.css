@@ -168,9 +168,10 @@ form, #github{
 footer{
 	padding: 30px;
 	margin-top: 20px;
-	color:white;
+	color:#35424a;
 	background-color:#E8491d;
 	text-align: center; 
+	font-size:18px;
 }
 
 /*#contact h1{
@@ -180,7 +181,12 @@ footer{
 
 #contact h1{
 	text-align: center;
-	color:white;
+	color:#35424a;
+	font-size:25px;
+}
+
+#contact a{
+	color: #35424a;
 }
 
 /*#contact{
